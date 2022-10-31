@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 import "../styles/supplierList.css";
-import SupplierView from "../components/supplierView";
+import SupplierView from "../components/supplier/supplierView";
 // import SupplierAddForm from "../components/supplierAddForm";
 
 const SupplierList = () => {

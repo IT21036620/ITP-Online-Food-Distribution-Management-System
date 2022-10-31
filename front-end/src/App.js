@@ -1,14 +1,14 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import SupplierList from "./pages/supplierList";
-import Navbar from "./components/Navbar";
-import PageHeader from "./components/Header";
-import SupplierDetails from "./components/supplierDetails";
-import SupplierNavbar from "./components/supplierNavbar";
-import SupplierAddForm from "./components/supplierAddForm";
-import SupplierRemove from "./components/supplierRemove";
-import SupplierMail from "./components/supplierMail";
-import SupplierUpdate from "./components/supplierUpdate";
+import Navbar from "./components/supplier/Navbar";
+import PageHeader from "./components/supplier/Header";
+import SupplierDetails from "./components/supplier/supplierDetails";
+import SupplierNavbar from "./components/supplier/supplierNavbar";
+import SupplierAddForm from "./components/supplier/supplierAddForm";
+import SupplierRemove from "./components/supplier/supplierRemove";
+import SupplierMail from "./components/supplier/supplierMail";
+import SupplierUpdate from "./components/supplier/supplierUpdate";
 
 function App() {
   // const location = useLocation();

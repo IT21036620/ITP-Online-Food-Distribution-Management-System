@@ -1,4 +1,4 @@
-import "../styles/supplierList.css";
+import "../../styles/supplierList.css";
 
 const PageHeader = () => {
   return (

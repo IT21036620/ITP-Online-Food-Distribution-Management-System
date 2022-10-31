@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useParams, Link } from "react-router-dom";
 
-import "../styles/supplierList.css";
+import "../../styles/supplierList.css";
 const SupplierDetails = () => {
   const [supplier, setSupplier] = useState({});
 

@@ -1,4 +1,4 @@
-import "../styles/supplierList.css";
+import "../../styles/supplierList.css";
 import { Link } from "react-router-dom";
 const SupplierNavbar = () => {
   return (

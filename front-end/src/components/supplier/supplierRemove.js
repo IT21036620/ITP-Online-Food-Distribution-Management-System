@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useParams } from "react-router-dom";
-import SupplierList from "../pages/supplierList";
+import SupplierList from "../../pages/supplierList";
 
 const SupplierRemove = () => {
   //   const [supplier, setSupplier] = useState({});
